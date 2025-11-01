@@ -74,6 +74,53 @@ Triage encompasses a sequence of analytical activities aimed at efficiently mana
 
 ### 2.2 Developer Assignment
 
+#### Text Classification
+
+1. **Who Should Fix This Bug?**  
+   Anvik, John and Hiew, Lyndon and Murphy, Gail C. *Proceedings of the 28th international conference on Software engineering*. [[Paper](https://www.ifi.uzh.ch/dam/jcr:00000000-2f41-7b40-0000-00005fabb70c/murphy-icse06.pdf)]
+
+2. **Reducing the Effort of Bug Report Triage: Recommenders for Development-Oriented Decisions**  
+   Anvik, John and Murphy, Gail C. *ACM Transactions on Software Engineering and Methodology (TOSEM)*. [[Paper](https://dl.acm.org/doi/abs/10.1145/2000791.2000794)]
+
+3. **Automatic Software Bug Triage System (BTS) Based on Latent Semantic Indexing and Support Vector Machine**  
+   Ahsan, Syed Nadeem and Ferzund, Javed and Wotawa, Franz. *2009 Fourth International Conference on Software Engineering Advances*. [[Paper](https://dl.acm.org/doi/abs/10.1109/ICSEA.2009.92)]
+
+4. **COSTRIAGE: A Cost-Aware Triage Algorithm for Bug Reporting Systems**  
+   Park, Jin-woo and Lee, Mu-Woong and Kim, Jinhan and Hwang, Seung-won and Kim, Sunghun. *Proceedings of the AAAI conference on artificial intelligence*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/7839)]
+
+5. **Applying Deep Learning Based Automatic Bug Triager to Industrial Projects**  
+   Lee, Sun-Ro and Heo, Min-Jae and Lee, Chan-Gun and Kim, Milhan and Jeong, Gaeul. *Proceedings of the 2017 11th Joint Meeting on foundations of software engineering*. [[Paper](https://dl.acm.org/doi/abs/10.1145/3106237.3117776)]
+
+6. **DeepTriage: Exploring the Effectiveness of Deep Learning for Bug Triaging**  
+   Mani, Senthil and Sankaran, Anush and Aralikatte, Rahul. *Proceedings of the ACM India joint international conference on data science and management of data*. [[Paper](https://dl.acm.org/doi/abs/10.1145/3297001.3297023)]
+
+7. **Bug Triaging Based on Tossing Sequence Modeling**  
+   Xi, Sheng-Qu and Yao, Yuan and Xiao, Xu-Sheng and Xu, Feng and Lv, Jian. *Journal of Computer Science and Technology*. [[Paper](https://jcst.ict.ac.cn/en/article/pdf/preview/10.1007/s11390-019-1953-5.pdf)]
+
+8. **A Light Bug Triage Framework for Applying Large Pre-trained Language Model**  
+   Lee, Jaehyung and Han, Kisun and Yu, Hwanjo. *Proceedings of the 37th IEEE/ACM international conference on automated software engineering*. [[Paper](https://dl.acm.org/doi/abs/10.1145/3551349.3556898)]
+
+9. **An Empirical Assessment of Different Word Embedding and Deep Learning Models for Bug Assignment**  
+   Wang, Rongcun and Ji, Xingyu and Xu, Senlei and Tian, Yuan and Jiang, Shujuan and Huang, Rubing. *Journal of Systems and Software*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0164121224000049)]
+
+10. **An Ensemble Method for Bug Triaging using Large Language Models**  
+   Kumar Dipongkor, Atish. *Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings*. [[Paper](https://dl.acm.org/doi/abs/10.1145/3639478.3641228)]
+
+11. **Cost-Aware Triage Ranking Algorithms for Bug Reporting Systems**  
+   Park, Jin-woo and Lee, Mu-Woong and Kim, Jinhan and Hwang, Seung-won and Kim, Sunghun. *Knowledge and Information Systems*. [[Paper](http://rosaec.snu.ac.kr/meet/file/20120116e.pdf)]
+
+12. **Automated Bug Assignment: Ensemble-based Machine Learning in Large Scale Industrial Contexts**  
+   Jonsson, Leif and Borg, Markus and Broman, David and Sandahl, Kristian and Eldh, Sigrid and Runeson, Per. *Empirical Software Engineering*. [[Paper](https://lucris.lub.lu.se/ws/portalfiles/portal/1859620/7865979.pdf)]
+
+13. **Improving Bug Triaging with High Confidence Predictions at Ericsson**  
+   Sarkar, Aindrila and Rigby, Peter C and Bartalos, Bela. *2019 IEEE International Conference on Software Maintenance and Evolution*. [[Paper](https://users.encs.concordia.ca/~pcr/paper/Sarkar2019ICSME.pdf)]
+
+14. **BTAL: An Imbalance Software Bug Report Triage Approach Based on BERT-TextCNN**  
+   Zhang, Yanmei and Sun, Yuhang and Shi, Yi and Jiang, Shujuan and Yuan, Guan. *Information and Software Technology*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0950584925000709)]
+
+15. **Fixer-Level Supervised Contrastive Learning for Bug Assignment**  
+   Wang, Rongcun and Ji, Xingyu and Tian, Yuan and Xu, Senlei and Sun, Xiaobing and Jiang, Shujuan. *Empirical Software Engineering*. [[Paper](https://link.springer.com/article/10.1007/s10664-025-10634-0)]
+
 
 ## 3 Postmortem Process
 
