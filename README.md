@@ -121,6 +121,73 @@ Triage encompasses a sequence of analytical activities aimed at efficiently mana
 15. **Fixer-Level Supervised Contrastive Learning for Bug Assignment**  
    Wang, Rongcun and Ji, Xingyu and Tian, Yuan and Xu, Senlei and Sun, Xiaobing and Jiang, Shujuan. *Empirical Software Engineering*. [[Paper](https://link.springer.com/article/10.1007/s10664-025-10634-0)]
 
+#### Information Retrieval
+
+1. **Fuzzy Set and Cache-Based Approach for Bug Triaging**  
+   Tamrawi, Ahmed and Nguyen, Tung Thanh and Al-Kofahi, Jafar M. and Nguyen, Tien N. *Proceedings of the 19th ACM SIGSOFT Symposium and the 13th European Conference on Foundations of Software Engineering*. [[Paper](https://d1wqtxts1xzle7.cloudfront.net/37152414/viewcontent-libre.pdf?1427685442=&response-content-disposition=inline%3B+filename%3DFuzzy_set_and_cache_based_approach_for_b.pdf&Expires=1762054605&Signature=akkFmk3krfqcn3ySqa93756IGFVuBXH98o6O1joHJfNRF10flY00lt6NaaBnfbL0nLnRKOJ-ywfEW44r9d7lpZ1HolkDHZ87BSSCYflG3MDXgqtS4RqPcun4VanP5s6YtAQemSUgaYtWhCxmQNfsZOy-FCru9QOpaxBviwmxpamLzKBkOD8gh6cl98UMLmzZ1XA0TzJHlAd6mLF4FBa6XUdQ7RmTKYnxaeqRjbva4JvZIJG-D4okkuXM3JcPvsESNepAtkx5JHR8qCTNq7AX47RbF0QWnxrfnuqHqy1ChvlNkzK~OHIpMqtjFBkine4ig4AJr8sFcZtP9JatXOCBfA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
+
+2. **Topic Modeling and Intuitionistic Fuzzy Set-Based Approach for Efficient Software Bug Triaging**  
+   Panda, Rama Ranjan and Nagwani, Naresh Kumar. *Knowledge and Information Systems*. [[Paper](https://link.springer.com/article/10.1007/s10115-022-01735-z)]
+
+3. **Vocabulary and Time Based Bug-Assignment: A Recommender System for Open-Source Projects**  
+   Sajedi-Badashian, Ali and Stroulia, Eleni. *Software: Practice and Experience*. [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2830)]
+
+4. **Effective Bug Triage for Non-Reproducible Bugs**  
+   Goyal, Anjali. *2017 IEEE/ACM 39th International Conference on Software Engineering Companion*. [[Paper](https://ieeexplore.ieee.org/abstract/document/7965397)]
+
+5. **Triaging Incoming Change Requests: Bug or Commit History, or Code Authorship?**  
+   Linares-Vásquez, Mario and Hossen, Kamal and Dang, Hoang and Kagdi, Huzefa and Gethers, Malcom and Poshyvanyk, Denys. *2012 28th IEEE International Conference on Software Maintenance*. [[Paper](https://www.cs.wm.edu/~denys/pubs/ICSM'12-DevRecAuthorship.pdf)]
+
+6. **Why So Complicated? Simple Term Filtering and Weighting for Location-Based Bug Report Assignment Recommendation**  
+   Shokripour, Ramin and Anvik, John and Kasirun, Zarinah M and Zamani, Sima. *2013 10th working conference on mining software repositories*. [[Paper](https://d1wqtxts1xzle7.cloudfront.net/72977192/msr2013-libre.pdf?1634525411=&response-content-disposition=inline%3B+filename%3DWhy_so_complicated_Simple_term_filtering.pdf&Expires=1762055135&Signature=Yox8ns20-Np5VTlomV7w1b9mlVa27Kq36z41i7Wk1Y73KC1yj8E~K8AlHdvdfqdGFbC2ATuoU2eLRRKKdNLv~cyCfFphoTqcGIRO7Jl6Xqd1-Z6I1OmqGtpgprnFyVKcVmZX1yLVwYnfFQnaXE7PTSEAJ5DUy2rHHWTtJpr~MNgFUUoQgdLxgv4ncnKb8WF0-5cmJTFu0RCgMLgR49D1H9P5tfPXu4iMNgYLHvzIq5pfUh81iofGVvtfbf4s10NSzPrCNBX6lFWqHfAWv0MTOniDXPwp4IRBUGVOJrxBMOEUG4miu4e0evwNkIn70Okr4MyBJpwetiFZKNuD6Wi4aA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
+
+7. **DRETOM: Developer Recommendation Based on Topic Models for Bug Resolution**  
+   Xie, Xihao and Zhang, Wen and Yang, Ye and Wang, Qing. *Proceedings of the 8th international conference on predictive models in software engineering*. [[Paper](https://dl.acm.org/doi/abs/10.1145/2365324.2365329)]
+
+8. **Effective Bug Triage based on Historical Bug-Fix Information**  
+   Hu, Hao and Zhang, Hongyu and Xuan, Jifeng and Sun, Weigang. *2014 IEEE 25th international symposium on software reliability engineering*. [[Paper](https://inria.hal.science/hal-01087444/file/140831_BugFixer_ISSRE_1811.pdf)]
+
+9. **Improving Automated Bug Triaging with Specialized Topic Model**  
+   Xia, Xin and Lo, David and Ding, Ying and Al-Kofahi, Jafar M. and Nguyen, Tien N. and Wang, Xinyu. *IEEE Transactions on Software Engineering*. [[Paper](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4693&context=sis_research)]
+
+10. **PorchLight: A Tag-Based Approach to Bug Triaging**  
+   Bortis, Gerald and van der Hoek, André. *2013 35th International Conference on Software Engineering*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6606580)]
+
+#### Social Network Modeling
+
+1. **Improving Bug Triage with Bug Tossing Graphs**  
+   Jeong, Gaeul and Kim, Sunghun and Zimmermann, Thomas. *Proceedings of the 7th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering*. [[Paper](https://research.cs.queensu.ca/home/ahmed/home/teaching/CISC880/F11/papers/BugTossingGraphs_FSE2009.pdf)]
+
+2. **Automated, Highly-Accurate, Bug Assignment Using Machine Learning and Tossing Graphs**  
+   Bhattacharya, Pamela and Neamtiu, Iulian and Shelton, Christian R. *Journal of Systems and Software*. [[Paper](https://www.cs.ucr.edu/~neamtiu/pubs/jss12bhattacharya.pdf)]
+
+3. **FixerCache: Unsupervised Caching Active Developers for Diverse Bug Triage**  
+   Wang, Song and Zhang, Wen and Wang, Qing. *Proceedings of the 8th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement*. [[Paper](https://www.eecs.yorku.ca/~wangsong/papers/esem14.pdf)]
+
+4. **DECOBA: Utilizing Developers Communities in Bug Assignment**  
+   Banitaan, Shadi and Alenezi, Mamdouh. *2013 12th International Conference on Machine Learning and Applications*. [[Paper](https://malenezi.github.io/malenezi/pdfs/DECOBA.pdf)]
+
+5. **A Spatial-Temporal Graph Neural Network Framework for Automated Software Bug Triaging**  
+   Wu, Hongrun and Ma, Yutao and Xiang, Zhenglong and Yang, Chen and He, Keqing. *Knowledge-Based Systems*. [[Paper](https://arxiv.org/pdf/2101.11846)]
+
+6. **PCG: A Joint Framework of Graph Collaborative Filtering For bug Triaging**  
+   Dai, Jie and Li, Qingshan and Xie, Shenglong and Li, Daizhen and Chu, Hua. *Journal of Software: Evolution and Process*. [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2673)]
+
+6. **Neighborhood Contrastive Learning based Graph Neural Network for Bug Triaging**  
+   Dong, Haozhen and Ren, Hongmin and Shi, Jialiang and Xie, Yichen and Hu, Xudong. *Science of Computer Programming*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0167642324000169?ssrnid=4565134&dgcid=SSRN_redirect_SD)]
+
+
+    
+
+#### Optimization / Decision-Making
+
+
+
+#### Other / Hybrid
+
+
+
+
 
 ## 3 Postmortem Process
 
