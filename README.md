@@ -176,17 +176,72 @@ Triage encompasses a sequence of analytical activities aimed at efficiently mana
 6. **Neighborhood Contrastive Learning based Graph Neural Network for Bug Triaging**  
    Dong, Haozhen and Ren, Hongmin and Shi, Jialiang and Xie, Yichen and Hu, Xudong. *Science of Computer Programming*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0167642324000169?ssrnid=4565134&dgcid=SSRN_redirect_SD)]
 
-
-    
-
 #### Optimization / Decision-Making
 
+1. **A Bug You Like: A Framework for Automated Assignment of Bugs**  
+   Baysal, Olga and Godfrey, Michael W and Cohen, Robin. *2009 IEEE 17th International Conference on Program Comprehension*. [[Paper](https://plg.uwaterloo.ca/~migod/papers/2009/icpc09-olga-longVersion.pdf)]
 
+2. **T-REC: Towards Accurate Bug Triage for Technical Groups**  
+   Pahins, Cicero Augusto De Lara and D'Morison, Fabricio and Rocha, Thiago M and Almeida, Larissa M and Batista, Arthur F and Souza, Diego F. *2019 18th IEEE International Conference on Machine Learning and Applications*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8999225)]
+
+3. **A Scheduling-Driven Approach to Efficiently Assign Bug Fixing Tasks to Developers**  
+   Etemadi, Vahid and Bushehrian, Omid and Akbari, Reza and Robles, Gregorio. *Journal of Systems and Software*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0164121221000649)]
+
+4. **Considering Dependencies Between Bug Reports to Improve Bugs Triage**  
+   Almhana, Rafi and Kessentini, Marouane. *Automated Software Engineering*. [[Paper](https://link.springer.com/article/10.1007/s10515-020-00279-2)]   
+
+5. **Wayback Machine: A Tool to Capture The Evolutionary Behavior of The Bug Reports and Their Triage Process in Open-Source Software Systems**  
+   Jahanshahi, Hadi and Cevik, Mucahit and Navas-Su, Jose and Basar, Ayse and Gonzalez-Torres, Antonio. *Journal of Systems and Software*. [[Paper](https://arxiv.org/pdf/2011.05382)]   
+
+6. **S-DABT: Schedule and Dependency-Aware Bug Triage in Open-Source Bug Tracking Systems**  
+   Jahanshahi, Hadi and Cevik, Mucahit. *Information and Software Technology*. [[Paper](https://arxiv.org/pdf/2204.05972)]   
+
+7. **ADPTriage: Approximate Dynamic Programming for Bug Triage**  
+   Jahanshahi, Hadi and Cevik, Mucahit and Mousavi, Kianoush and Basar, Ayse. *IEEE Transactions on Software Engineering*. [[Paper](https://arxiv.org/pdf/2211.00872)]  
+
+8. **Navigating Bug Cold Start with Contextual Multi-Armed Bandits: An Enhanced Approach to Developer Assignment in Software Bug Repositories**  
+   Singh, Neetu and Singh, Sandeep Kumar. *Automated Software Engineering*. [[Paper](https://link.springer.com/article/10.1007/s10515-025-00508-6)]  
+
+9. **Triangle: Empowering Incident Triage with Multi-LLM-Agents**  
+   Yu, Zhaoyang and Ma, Minghua and Feng, Xiaoyu and Ding, Ruomeng and Zhang, Chaoyun and Li, Ze and Chintalapati, Merali and Zhang, Xuchao and Wang, Rujia and Bansal, Chetan and Rajmohan, Sarvan and Lin, Qingwei and Zhang, Shenglin and Pei, Changhua and Pei, Dan. *Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering*. [[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/02/TRIANGLE_FSE25.pdf)]
 
 #### Other / Hybrid
 
+1. **WHOSEFAULT: Automatic Developer-to-Fault Assignment through Fault Localization**  
+   Servant, Francisco and Jones, James A. *2012 34th International Conference on Software Engineering*. [[Paper](https://fservant.github.io/papers/2012-ICSE.pdf)]  
 
+2. **DeCaf: Diagnosing and Triaging Performance Issues in Large-Scale Cloud Services**  
+   Bansal, Chetan and Renganathan, Sundararajan and Asudani, Ashima and Midy, Olivier and Janakiraman, Mathru. *Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: Software Engineering in Practice*. [[Paper](https://arxiv.org/pdf/1910.05339)]  
 
+3. **Identifying Recurrent and Unknown Performance Issues**  
+   Lim, Meng-Hui and Lou, Jian-Guang and Zhang, Hongyu and Fu, Qiang and Teoh, Andrew Beng Jin and Lin, Qingwei and Ding, Rui and Zhang, Dongmei. *2014 IEEE International Conference on Data Mining*. [[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/ICDM2014-Identifying-Recurrent-and-Unknown-Performance-Issues.pdf)]  
+
+4. **Towards Semi-automatic Bug Triage and Severity Prediction Based on Topic Model and Multi-feature of Bug Reports**  
+   Yang, Geunseok and Zhang, Tao and Lee, Byungjeong. *2014 IEEE 38th Annual Computer Software and Applications Conference*. [[Paper](https://ieeexplore.ieee.org/abstract/document/6899206/)]
+
+5. **Fine-grained Incremental Learning and Multi-feature Tossing Graphs to Improve Bug Triaging**  
+   Bhattacharya, Pamela and Neamtiu, Iulian. *2010 IEEE International Conference on Software Maintenance*. [[Paper](https://www.cs.ucr.edu/~neamtiu/pubs/icsm10bhattacharya.pdf)]
+
+6. **KSAP: An Approach to Bug Report Assignment using KNN Search and Heterogeneous Proximity**  
+   Zhang, Wen and Wang, Song and Wang, Qing. *Information and software technology*. [[Paper](https://www.eecs.yorku.ca/~wangsong/papers/ist16.pdf)]
+
+7. **DeepTriage: Automated Transfer Assistance for Incidents in Cloud Services**  
+   Pham, Phuong and Jain, Vivek and Dauterman, Lukas and Ormont, Justin and Jain, Navendu. *Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining*. [[Paper](https://arxiv.org/pdf/2012.03665)]
+
+8. **Towards Intelligent Incident Management: Why We Need It andHow We Make It**  
+   Chen, Zhuangbin and Kang, Yu and Li, Liqun and Zhang, Xu and Zhang, Hongyu and Xu, Hui and Zhou, Yangfan and Yang, Li and Sun, Jeffrey and Xu, Zhangwei and Dang, Yingnong and Gao, Feng and Zhao, Pu and Qiao, Bo and Lin, Qingwei and Zhang, Dongmei and Lyu, Michael R. *Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering*. [[Paper](https://netman.aiops.org/~peidan/ANM2023/12.IncidentManagement/zchen_esecfse2020_towards.pdf.pdf)]
+ 
+9. **Graph Collaborative Filtering-Based Bug Triaging**  
+   Dai, Jie and Li, Qingshan and Xue, Hui and Luo, Zhao and Wang, Yinglin and Zhan, Siyuan. *Journal of Systems and Software*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0164121223000626)]  
+
+10. **Enhancing Developer Recommendation with Supplementary Information via Mining Historical Commits**  
+   Sun, Xiaobing and Yang, Hui and Xia, Xin and Li, Bin. *Journal of Systems and Software*. [[Paper](https://xin-xia.github.io/publication/jss17.pdf)]  
+
+11. **Large Language Models Can Provide Accurate and Interpretable Incident Triage**  
+   SWang, Zexin and Li, Jianhui and Ma, Minghua and Li, Ze and Kang, Yu and Zhang, Chaoyun and Bansal, Chetan and Chintalapati, Murali and Rajmohan, Saravan and Lin, Qingwei and Zhang, Dongmei and Pei, Changhua and Xie, Gaogang. *2024 IEEE 35th International Symposium on Software Reliability Engineering*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10771420)]
+
+12. **Improving Bug Triage with The Bug Personalized Tossing Relationship**  
+   Wei, Wei and Li, Haojie and Ren, Xinshuang and Jiang, Feng and Yu, Xu and Gao, Xingyu and Du, Junwei. *Information and Software Technology*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950584924002477)]
 
 
 ## 3 Postmortem Process
