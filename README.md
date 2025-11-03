@@ -119,22 +119,120 @@ https://doi.org/10.1145/3639477.3639754)]
    Xu, Yang and Liu, Chao and Li, Yong and Xie, Qiaoluan and Choi, Hyun-Deok. *2023 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)*. [[Paper](https://doi.org/10.1109/SANER56733.2023.00089)]
 9. **Improving bug triaging with high confidence predictions at ericsson**
     Sarkar, Aindrila and Rigby, Peter C and Bartalos, B{\'e}la}. *2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)*.[[Paper](https://doi.org/10.1109/ICSME.2019.00018)]
+10. **A time-based approach to automatic bug report assignment**
+    Shokripour, Ramin and Anvik, John and Kasirun, Zarinah M and Zamani, Sima. *Journal of Systems and Software*. [[Paper](https://doi.org/10.1016/j.jss.2014.12.049)]
+11. **Vocabulary and time based bug-assignment: A recommender system for open-source projects**
+    Sajedi-Badashian, Ali and Stroulia, Eleni. *Software: Practice and Experience*. [[Paper]( https://doi.org/10.1002/spe.2830)]
+12. **Principal component analysis and entropy-based selection for the improvement of bug triage**
+    Nath, Vaskar and Sheldon, David and Alphonso-Gibbs, John. *2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA)*. [[Paper](https://doi.org/10.1109/ICMLA52953.2021.00090)]
+13. **Revisiting textual feature of bug-triage approach**
+    Li, Zexuan and Zhong, Hao. *2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE)*. [[Paper](https://doi.org/10.1109/ASE51524.2021.9678863)]
+14. **Automatic bug assignments without texts: a study**
+  Li, Zexuan and Huang, Kaixin. *Frontiers of Computer Science*. [[Paper](https://www.researchgate.net/profile/Hao-Zhong-3/publication/365612461_Exploring_the_Key_Features_for_Automatic_Bug_Assignment_An_Empirical_Study/links/63e304ece2e1515b6b7b1db2/Exploring-the-Key-Features-for-Automatic-Bug-Assignment-An-Empirical-Study.pdf)]
 
 #### Observability Data
+1. **Software analytics for incident management of online services: An experience report**
+   Lou, Jian-Guang and Lin, Qingwei and Ding, Rui and Fu, Qiang and Zhang, Dongmei and Xie, Tao. *2013 28th IEEE/ACM International Conference on Automated Software Engineering (ASE)*.[[Paper](https://doi.org/10.1109/ASE.2013.6693105)]
+2. **Large Language Models Can Provide Accurate and Interpretable Incident Triage**
+   Wang, Zexin and Li, Jianhui and Ma, Minghua and Li, Ze and Kang, Yu and Zhang, Chaoyun and Bansal, Chetan and Chintalapati, Murali and Rajmohan, Saravan and Lin, Qingwei and Zhang, Dongmei and Pei, Changhua and Xie, Gaogang. *2024 IEEE 35th International Symposium on Software Reliability Engineering (ISSRE)*. [[Paper](https://doi.org/10.1109/ISSRE62328.2024.00056)]
 
 #### Reviews
-
+1. **User reviews matter! tracking crowdsourced reviews to support evolution of successful apps**
+   Palomba, Fabio and Linares-V{\'a}squez, Mario and Bavota, Gabriele and Oliveto, Rocco and Di Penta, Massimiliano and Poshyvanyk, Denys and De Lucia, Andrea. *2015 IEEE international conference on software maintenance and evolution (ICSME)*. [[Paper](https://doi.org/10.1109/ICSM.2015.7332475)]
+2. **App update patterns: How developers act on user reviews in mobile app stores**
+   Wang, Shance and Wang, Zhongjie and Xu, Xiaofei and Sheng, Quan Z. *International Conference on Service-Oriented Computing*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-69035-3_9)]
+3. **Allhands: Ask me anything on large-scale verbatim feedback via large language models**
+   Zhang, Chaoyun and Ma, Zicheng and Wu, Yuhao and He, Shilin and Qin, Si and Ma, Minghua and Qin, Xiaoting and Kang, Yu and Liang, Yuyi and Gou, Xiaoyu and others. *2025 IEEE 41st International Conference on Data Engineering (ICDE)*. [[Paper](https://doi.org/10.1109/ICDE65448.2025.00011)]
+   
 #### Relational Data
-
+1. **Effective bug triage based on historical bug-fix information**
+   Hu, Hao and Zhang, Hongyu and Xuan, Jifeng and Sun, Weigang. *2014 IEEE 25th international symposium on software reliability engineering*. [[Paper](https://doi.org/10.1109/ISSRE.2014.17)]
+2. **KSAP: An approach to bug report assignment using KNN search and heterogeneous proximity**
+   Zhang, Wen and Wang, Song and Wang, Qing. *Information and software technology*. [[Paper](https://doi.org/10.1016/j.infsof.2015.10.004)]
+3. **PCG: A joint framework of graph collaborative filtering for bug triaging**
+   Dai, Jie and Li, Qingshan and Xie, Shenglong and Li, Daizhen and Chu, Hua. *Journal of Software: Evolution and Process*. [[Paper](https://doi.org/10.1002/smr.2673)]
+4. **Neighborhood contrastive learning-based graph neural network for bug triaging**
+   Dong, Haozhen and Ren, Hongmin and Shi, Jialiang and Xie, Yichen and Hu, Xudong. *Science of Computer Programming*. [[Paper](https://doi.org/10.1016/j.scico.2024.103093)]
+5. **Improving bug triage with the bug personalized tossing relationship**
+   Wei, Wei and Li, Haojie and Ren, Xinshuang and Jiang, Feng and Yu, Xu and Gao, Xingyu and Du, Junwei. *Information and Software Technology*. [[Paper](https://doi.org/10.1016/j.infsof.2024.107642)]
+6. **A spatial-temporal graph neural network framework for automated software bug triaging**
+   Wu, Hongrun and Ma, Yutao and Xiang, Zhenglong and Yang, Chen and He, Keqing. *Knowledge-Based Systems*. [[Paper](https://doi.org/10.1016/j.knosys.2022.108308)]
+7. **Graph collaborative filtering-based bug triaging**
+   Dai, Jie and Li, Qingshan and Xue, Hui and Luo, Zhao and Wang, Yinglin and Zhan, Siyuan. *Journal of Systems and Software*. [[Paper](https://doi.org/10.1016/j.jss.2023.111667)]
 
 ## 1 Prioritization
 
 [⬆️top](#table-of-contents)
 
 ### 1.1 Severity Rating
+#### Incident Reports
+1. **How incidental are the incidents? characterizing and prioritizing incidents for large-scale online service systems**
+   Chen, Junjie and Zhang, Shu and He, Xiaoting and Lin, Qingwei and Zhang, Hongyu and Hao, Dan and Kang, Yu and Gao, Feng and Xu, Zhangwei and Dang, Yingnong and Zhang, Dongmei. *Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering*. [[Paper](https://doi.org/10.1145/3324884.3416624)]
+2. **Severity-based triage of cybersecurity incidents using kill chain attack graphs**
+   Sadlek, Luk{\'a}{\v{s}} and Yamin, Muhammad Mudassar and {\v{C}}eleda, Pavel and Katt, Basel. *Journal of Information Security and Applications*. [[Paper](https://doi.org/10.1016/j.jisa.2024.103956)]
+3. **Prioritizing user concerns in app reviews--A study of requests for new features, enhancements and bug fixes**
+   Malgaonkar, Saurabh and Licorish, Sherlock A and Savarimuthu, Bastin Tony Roy. *Information and Software Technology*. [[Paper](https://doi.org/10.1016/j.infsof.2021.106798)]
+
+#### Bug Reports
+1. **Bug prioritization to facilitate bug report triage**
+   Kanwal, Jaweria and Maqbool, Onaiza. *Journal of Computer Science and Technology*. [[Paper](https://link.springer.com/article/10.1007/s11390-012-1230-3)]
+2. **Towards more accurate severity prediction and fixer recommendation of software bugs**
+   Zhang, Tao and Chen, Jiachi and Yang, Geunseok and Lee, Byungjeong and Luo, Xiapu. *Journal of Systems and Software*. [[Paper](https://doi.org/10.1016/j.jss.2016.02.034)]
+3. **SevPredict: Exploring the Potential of Large Language Models in Software Maintenance**
+   Arshad, Muhammad Ali and Riaz, Adnan and Fatima, Rubia and Yasin, Affan. *AI*. [[Paper]( https://doi.org/10.3390/ai5040132)]
+4. **Software bug priority prediction technique based on intuitionistic fuzzy representation and class imbalance learning**
+   Panda, Rama Ranjan and Nagwani, Naresh Kumar. *Knowledge and Information Systems*. [[Paper](https://link.springer.com/article/10.1007/s10115-023-02000-7)]
+5. **Wayback Machine: A tool to capture the evolutionary behavior of the bug reports and their triage process in open-source software systems**
+   Jahanshahi, Hadi and Cevik, Mucahit and Navas-S{\'u}, Jos{\'e} and Ba{\c{s}}ar, Ay{\c{s}}e and Gonz{\'a}lez-Torres, Antonio. *Journal of Systems and Software*. [[Paper](https://doi.org/10.1016/j.jss.2022.111308)]
+6. **S-DABT: Schedule and dependency-aware bug triage in open-source bug tracking systems**
+   Jahanshahi, Hadi and Cevik, Mucahit. *Information and Software Technology*. [[Paper](https://doi.org/10.1016/j.infsof.2022.107025)]
+
+#### Alerts
+1. **Collaborative Alert Ranking for Anomaly Detection**
+   Lin, Ying and Chen, Zhengzhang and Cao, Cheng and Tang, Lu-An and Zhang, Kai and Cheng, Wei and Li, Zhichun. *Proceedings of the 27th ACM International Conference on Information and Knowledge Management*.[[Paper](https://doi.org/10.1145/3269206.3272013)]
+2. **Automatically and Adaptively Identifying Severe Alerts for Online Service Systems**
+   Zhao, Nengwen and Jin, Panshi and Wang, Lixin and Yang, Xiaoqin and Liu, Rong and Zhang, Wenchi and Sui, Kaixin and Pei, Dan. *IEEE INFOCOM 2020 - IEEE Conference on Computer Communications*. [[Paper](https://doi.org/10.1109/INFOCOM41043.2020.9155219)]
 
 ### 1.2 Issue Type Classification
 
+#### Structure Information
+
+1. **Identifying Recurrent and Unknown Performance Issues**
+   Lim, Meng-Hui and Lou, Jian-Guang and Zhang, Hongyu and Fu, Qiang and Teoh, Andrew Beng Jin and Lin, Qingwei and Ding, Rui and Zhang, Dongmei. *2014 IEEE International Conference on Data Mining*. [[Paper](https://doi.org/10.1109/ICDM.2014.96)]
+2. **Unveiling clusters of events for alert and incident management in large-scale enterprise it**
+   Lin, Derek and Raghu, Rashmi and Ramamurthy, Vivek and Yu, Jin and Radhakrishnan, Regunathan and Fernandez, Joseph. *Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*. [[Paper](https://doi.org/10.1145/2623330.2623360)]
+3. **App update patterns: How developers act on user reviews in mobile app stores**
+   Wang, Shance and Wang, Zhongjie and Xu, Xiaofei and Sheng, Quan Z. *International Conference on Service-Oriented Computing*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-69035-3_9)]
+4. **Understanding and handling alert storm for online service systems**
+   Zhao, Nengwen and Chen, Junjie and Peng, Xiao and Wang, Honglin and Wu, Xinya and Zhang, Yuanzong and Chen, Zikai and Zheng, Xiangzhong and Nie, Xiaohui and Wang, Gang and Wu, Yong and Zhou, Fang and Zhang, Wenchi and Sui, Kaixin and Pei, Dan. *Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: Software Engineering in Practice*. [[Paper](https://doi.org/10.1145/3377813.3381363)]
+5. **Not all bugs are the same: Understanding, characterizing, and classifying bug types**
+   Catolino, Gemma and Palomba, Fabio and Zaidman, Andy and Ferrucci, Filomena. *Journal of Systems and Software*. [[Paper](https://doi.org/10.1016/j.jss.2019.03.002)]
+6. **Deep learning-based software bug classification**
+   Meher, Jyoti Prakash and Biswas, Sourav and Mall, Rajib. *Information and Software Technology*. [[Paper](https://doi.org/10.1016/j.infsof.2023.107350)]
+7. **Multi-triage: A multi-task learning framework for bug triage**
+   Aung, Thazin Win Win and Wan, Yao and Huo, Huan and Sui, Yulei. *Journal of Systems and Software*. [[Paper](https://doi.org/10.1016/j.jss.2021.111133)]
+8. **Using word embedding and convolution neural network for bug triaging by considering design flaws**
+   Sepahvand, Reza and Akbari, Reza and Jamasb, Behnaz and Hashemi, Sattar and Boushehrian, Omid. *Science of Computer Programming*. [[Paper](https://doi.org/10.1016/j.scico.2023.102945)]
+
+#### Historical Information
+
+1. **Developer prioritization in bug repositories**
+   Xuan, Jifeng and Jiang, He and Ren, Zhilei and Zou, Weiqin. *2012 34th International Conference on Software Engineering (ICSE)*. [[Paper](https://doi.org/10.1109/ICSE.2012.6227209)]
+2. **Cost-aware triage ranking algorithms for bug reporting systems**
+   Park, Jin-woo and Lee, Mu-Woong and Kim, Jinhan and Hwang, Seung-won and Kim, Sunghun. *Knowledge and Information Systems*. [[Paper](https://link.springer.com/article/10.1007/s10115-015-0893-9)]
+3. **Knowledge guided hierarchical multi-label classification over ticket data**
+   Zeng, Chunqiu and Zhou, Wubai and Li, Tao and Shwartz, Larisa and Grabarnik, Genady Ya. *IEEE Transactions on Network and Service Management*. [[Paper](https://doi.org/10.1109/TNSM.2017.2668363)]
+4. **Efficient customer incident triage via linking with system incidents**
+   Gu, Jiazhen and Wen, Jiaqi and Wang, Zijian and Zhao, Pu and Luo, Chuan and Kang, Yu and Zhou, Yangfan and Yang, Li and Sun, Jeffrey and Xu, Zhangwei and Qiao, Bo and Li, Liqun and Lin, Qingwei and Zhang, Dongmei, *Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering*. [[Paper](https://doi.org/10.1145/3368089.3417061)]
+5. **Automatically matching bug reports with related app reviews**
+   Haering, Marlo and Stanik, Christoph and Maalej, Walid. *2021 IEEE/ACM 43rd international conference on software engineering (ICSE)*. [[Paper](https://doi.org/10.1109/ICSE43902.2021.00092)]
+6. **Art: A unified unsupervised framework for incident management in microservice systems**
+   Sun, Yongqian and Shi, Binpeng and Mao, Mingyu and Ma, Minghua and Xia, Sibo and Zhang, Shenglin and Pei, Dan. *Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering*. [[Paper](https://doi.org/10.1145/3691620.3695495)]
+7. **Faultprofit: Hierarchical fault profiling of incident tickets in large-scale cloud systems**
+   Huang, Junjie and Liu, Jinyang and Chen, Zhuangbin and Jiang, Zhihan and Li, Yichen and Gu, Jiazhen and Feng, Cong and Yang, Zengyin and Yang, Yongqiang and Lyu, Michael R. *Proceedings of the 46th International Conference on Software Engineering: Software Engineering in Practice*.[[Paper](
+https://doi.org/10.1145/3639477.3639754)]
+8. **Allhands: Ask me anything on large-scale verbatim feedback via large language models**
+   Zhang, Chaoyun and Ma, Zicheng and Wu, Yuhao and He, Shilin and Qin, Si and Ma, Minghua and Qin, Xiaoting and Kang, Yu and Liang, Yuyi and Gou, Xiaoyu and others. *2025 IEEE 41st International Conference on Data Engineering (ICDE)*. [[Paper](https://doi.org/10.1109/ICDE65448.2025.00011)]
 
 ## 2 Assignment
 
