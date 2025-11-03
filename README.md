@@ -181,7 +181,7 @@ https://doi.org/10.1145/3639477.3639754)]
 8. **A Method of Component Prediction for Crash Bug Reports Using Component-Based Features and Machine Learning**
    Xu, Yang and Liu, Chao and Li, Yong and Xie, Qiaoluan and Choi, Hyun-Deok. *2023 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)*. [[Paper](https://doi.org/10.1109/SANER56733.2023.00089)]
 9. **Improving bug triaging with high confidence predictions at ericsson**
-    Sarkar, Aindrila and Rigby, Peter C and Bartalos, B{\'e}la}. *2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)*.[[Paper](https://doi.org/10.1109/ICSME.2019.00018)]
+    Sarkar, Aindrila and Rigby, Peter C and Bartalos, B&ela. *2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)*.[[Paper](https://doi.org/10.1109/ICSME.2019.00018)]
 10. **A time-based approach to automatic bug report assignment**
     Shokripour, Ramin and Anvik, John and Kasirun, Zarinah M and Zamani, Sima. *Journal of Systems and Software*. [[Paper](https://doi.org/10.1016/j.jss.2014.12.049)]
 11. **Vocabulary and time based bug-assignment: A recommender system for open-source projects**
@@ -201,7 +201,7 @@ https://doi.org/10.1145/3639477.3639754)]
 
 #### Reviews
 1. **User reviews matter! tracking crowdsourced reviews to support evolution of successful apps**
-   Palomba, Fabio and Linares-V{\'a}squez, Mario and Bavota, Gabriele and Oliveto, Rocco and Di Penta, Massimiliano and Poshyvanyk, Denys and De Lucia, Andrea. *2015 IEEE international conference on software maintenance and evolution (ICSME)*. [[Paper](https://doi.org/10.1109/ICSM.2015.7332475)]
+   Palomba, Fabio and Linares-V&asquez, Mario and Bavota, Gabriele and Oliveto, Rocco and Di Penta, Massimiliano and Poshyvanyk, Denys and De Lucia, Andrea. *2015 IEEE international conference on software maintenance and evolution (ICSME)*. [[Paper](https://doi.org/10.1109/ICSM.2015.7332475)]
 2. **App update patterns: How developers act on user reviews in mobile app stores**
    Wang, Shance and Wang, Zhongjie and Xu, Xiaofei and Sheng, Quan Z. *International Conference on Service-Oriented Computing*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-69035-3_9)]
 3. **Allhands: Ask me anything on large-scale verbatim feedback via large language models**
