@@ -181,7 +181,7 @@ https://doi.org/10.1145/3639477.3639754)]
 8. **A Method of Component Prediction for Crash Bug Reports Using Component-Based Features and Machine Learning**
    Xu, Yang and Liu, Chao and Li, Yong and Xie, Qiaoluan and Choi, Hyun-Deok. *2023 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)*. [[Paper](https://doi.org/10.1109/SANER56733.2023.00089)]
 9. **Improving bug triaging with high confidence predictions at ericsson**
-    Sarkar, Aindrila and Rigby, Peter C and Bartalos, B&ela. *2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)*.[[Paper](https://doi.org/10.1109/ICSME.2019.00018)]
+    Sarkar, Aindrila and Rigby, Peter C and Bartalos, Béla. *2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)*.[[Paper](https://doi.org/10.1109/ICSME.2019.00018)]
 10. **A time-based approach to automatic bug report assignment**
     Shokripour, Ramin and Anvik, John and Kasirun, Zarinah M and Zamani, Sima. *Journal of Systems and Software*. [[Paper](https://doi.org/10.1016/j.jss.2014.12.049)]
 11. **Vocabulary and time based bug-assignment: A recommender system for open-source projects**
@@ -201,7 +201,7 @@ https://doi.org/10.1145/3639477.3639754)]
 
 #### Reviews
 1. **User reviews matter! tracking crowdsourced reviews to support evolution of successful apps**
-   Palomba, Fabio and Linares-V&asquez, Mario and Bavota, Gabriele and Oliveto, Rocco and Di Penta, Massimiliano and Poshyvanyk, Denys and De Lucia, Andrea. *2015 IEEE international conference on software maintenance and evolution (ICSME)*. [[Paper](https://doi.org/10.1109/ICSM.2015.7332475)]
+   Palomba, Fabio and Linares-Vásquez, Mario and Bavota, Gabriele and Oliveto, Rocco and Di Penta, Massimiliano and Poshyvanyk, Denys and De Lucia, Andrea. *2015 IEEE international conference on software maintenance and evolution (ICSME)*. [[Paper](https://doi.org/10.1109/ICSM.2015.7332475)]
 2. **App update patterns: How developers act on user reviews in mobile app stores**
    Wang, Shance and Wang, Zhongjie and Xu, Xiaofei and Sheng, Quan Z. *International Conference on Service-Oriented Computing*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-69035-3_9)]
 3. **Allhands: Ask me anything on large-scale verbatim feedback via large language models**
@@ -232,7 +232,7 @@ https://doi.org/10.1145/3639477.3639754)]
 1. **How incidental are the incidents? characterizing and prioritizing incidents for large-scale online service systems**
    Chen, Junjie and Zhang, Shu and He, Xiaoting and Lin, Qingwei and Zhang, Hongyu and Hao, Dan and Kang, Yu and Gao, Feng and Xu, Zhangwei and Dang, Yingnong and Zhang, Dongmei. *Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering*. [[Paper](https://doi.org/10.1145/3324884.3416624)]
 2. **Severity-based triage of cybersecurity incidents using kill chain attack graphs**
-   Sadlek, Luk{\'a}{\v{s}} and Yamin, Muhammad Mudassar and {\v{C}}eleda, Pavel and Katt, Basel. *Journal of Information Security and Applications*. [[Paper](https://doi.org/10.1016/j.jisa.2024.103956)]
+   Sadlek, Lukáš and Yamin, Muhammad Mudassar and Čeleda, Pavel and Katt, Basel. *Journal of Information Security and Applications*. [[Paper](https://doi.org/10.1016/j.jisa.2024.103956)]
 3. **Prioritizing user concerns in app reviews--A study of requests for new features, enhancements and bug fixes**
    Malgaonkar, Saurabh and Licorish, Sherlock A and Savarimuthu, Bastin Tony Roy. *Information and Software Technology*. [[Paper](https://doi.org/10.1016/j.infsof.2021.106798)]
 
@@ -246,7 +246,7 @@ https://doi.org/10.1145/3639477.3639754)]
 4. **Software bug priority prediction technique based on intuitionistic fuzzy representation and class imbalance learning**
    Panda, Rama Ranjan and Nagwani, Naresh Kumar. *Knowledge and Information Systems*. [[Paper](https://link.springer.com/article/10.1007/s10115-023-02000-7)]
 5. **Wayback Machine: A tool to capture the evolutionary behavior of the bug reports and their triage process in open-source software systems**
-   Jahanshahi, Hadi and Cevik, Mucahit and Navas-S{\'u}, Jos{\'e} and Ba{\c{s}}ar, Ay{\c{s}}e and Gonz{\'a}lez-Torres, Antonio. *Journal of Systems and Software*. [[Paper](https://doi.org/10.1016/j.jss.2022.111308)]
+   Jahanshahi, Hadi and Cevik, Mucahit and Navas-Sú, José and Başar, Ayşe and González-Torres, Antonio. *Journal of Systems and Software*. [[Paper](https://doi.org/10.1016/j.jss.2022.111308)]
 6. **S-DABT: Schedule and dependency-aware bug triage in open-source bug tracking systems**
    Jahanshahi, Hadi and Cevik, Mucahit. *Information and Software Technology*. [[Paper](https://doi.org/10.1016/j.infsof.2022.107025)]
 
@@ -303,6 +303,50 @@ https://doi.org/10.1145/3639477.3639754)]
 
 ### 2.1 Component Assignment
 
+#### Text Classification
+
+1. **Multi-dimensional knowledge integration for efficient incident management in a services cloud**
+   Gupta, Rajeev and Prasad, K Hima and Luan, Laura and Rosu, Daniela and Ward, Chris. *2009 IEEE International Conference on Services Computing*. [[Paper](https://doi.org/10.1109/SCC.2009.48)]
+2. **A comparative study of transformer-based neural text representation techniques on bug triaging**
+   Dipongkor, Atish Kumar and Moran, Kevin. *2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)*. [[Paper](https://doi.org/10.1109/ASE56229.2023.00217)]
+3. **Adopting automated bug assignment in practice—a longitudinal case study at Ericsson**
+   Borg, Markus and Jonsson, Leif and Engström, Emelie and Bartalos, Béla and Szabó, Attila. *Empirical Software Engineering*. [[Paper](https://link.springer.com/article/10.1007/s10664-024-10507-y)]
+
+#### Information Retrieval
+
+1. **Software analytics for incident management of online services: An experience report**
+   Lou, Jian-Guang and Lin, Qingwei and Ding, Rui and Fu, Qiang and Zhang, Dongmei and Xie, Tao. *2013 28th IEEE/ACM International Conference on Automated Software Engineering (ASE)*. [[Paper](https://doi.org/10.1109/ASE.2013.6693105)]
+2. **Mining historical issue repositories to heal large-scale online service systems**
+   Ding, Rui and Fu, Qiang and Lou, Jian Guang and Lin, Qingwei and Zhang, Dongmei and Xie, Tao. *2014 44th Annual IEEE/IFIP International Conference on Dependable Systems and Networks*. [[Paper](https://doi.org/10.1109/DSN.2014.39)]
+3. **User reviews matter! tracking crowdsourced reviews to support evolution of successful apps**
+   Palomba, Fabio and Linares-Vásquez, Mario and Bavota, Gabriele and Oliveto, Rocco and Di Penta, Massimiliano and Poshyvanyk, Denys and De Lucia, Andrea. *2015 IEEE international conference on software maintenance and evolution (ICSME)*. [[Paper](https://doi.org/10.1109/ICSM.2015.7332475)]
+4. **Identifying linked incidents in large-scale online service systems**
+   Chen, Yujun and Yang, Xian and Dong, Hang and He, Xiaoting and Zhang, Hongyu and Lin, Qingwei and Chen, Junjie and Zhao, Pu and Kang, Yu and Gao, Feng and Xu, Zhangwei and Zhang, Dongmei. *Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering*. [[Paper](https://doi.org/10.1145/3368089.3409768)]
+5. **Efficient bug triage for industrial environments**
+   Zhang, Wei. *2020 IEEE International Conference on Software Maintenance and Evolution (ICSME)*. [[Paper](10.1109/ICSME46990.2020.00082)]
+6. **A Method of Component Prediction for Crash Bug Reports Using Component-Based Features and Machine Learning**
+  Xu, Yang and Liu, Chao and Li, Yong and Xie, Qiaoluan and Choi, Hyun-Deok. *2023 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)*. [[Paper](https://doi.org/10.1109/SANER56733.2023.00089)]
+7. **Knowledge-aware Alert Aggregation in Large-scale Cloud Systems: a Hybrid Approach**
+   Kuang, Jinxi and Liu, Jinyang and Huang, Junjie and Zhong, Renyi and Gu, Jiazhen and Yu, Lan and Tan, Rui and Yang, Zengyin and Lyu, Michael R. *Proceedings of the 46th International Conference on Software Engineering: Software Engineering in Practice*. [[Paper](https://doi.org/10.1145/3639477.3639745)]
+8. **X-lifecycle learning for cloud incident management using llms**
+   Goel, Drishti and Husain, Fiza and Singh, Aditya and Ghosh, Supriyo and Parayil, Anjaly and Bansal, Chetan and Zhang, Xuchao and Rajmohan, Saravan. *Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering*. [[Paper](https://doi.org/10.1145/3663529.3663861)]
+
+#### Social Network Modeling
+
+1. **Reducing bug triaging confusion by learning from mistakes with a bug tossing knowledge graph**
+   Su, Yanqi and Xing, Zhenchang and Peng, Xin and Xia, Xin and Wang, Chong and Xu, Xiwei and Zhu, Liming. *2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE)*. [[Paper](https://doi.org/10.1109/ASE51524.2021.9678574)]
+2. **Still confusing for bug-component triaging? Deep feature learning and ensemble setting to rescue**
+   Su, Yanqi and Han, Zheming and Gao, Zhipeng and Xing, Zhenchang and Lu, Qinghua and Xu, Xiwei. *2023 IEEE/ACM 31st International Conference on Program Comprehension (ICPC)*. [[Paper](https://doi.org/10.1109/ICPC58990.2023.00046)]
+3. **Fast outage analysis of large-scale production clouds with service correlation mining**
+   Wang, Yaohui and Li, Guozheng and Wang, Zijian and Kang, Yu and Zhou, Yangfan and Zhang, Hongyu and Gao, Feng and Sun, Jeffrey and Yang, Li and Lee, Pochian and others. *2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE)*. [[Paper](https://doi.org/10.1109/ICSE43902.2021.00085)]
+
+#### Data Bias Modeling
+
+1. **Learning from evolving data streams: online triage of bug reports**
+   Chrupała, Grzegorz. *Proceedings of the 13th Conference of the European Chapter of the Association for Computational Linguistics*. [[Paper](https://aclanthology.org/E12-1063.pdf)]
+2. **Improving it support by enhancing incident management process with multi-modal analysis**
+   Mandal, Atri and Agarwal, Shivali and Malhotra, Nikhil and Sridhara, Giriprasad and Ray, Anupama and Swarup, Daivik. *International Conference on Service-Oriented Computing*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-33702-5_33)]
+   
 ### 2.2 Developer Assignment
 
 #### Text Classification
@@ -501,8 +545,8 @@ https://doi.org/10.1145/3639477.3639754)]
 1. **Why So Complicated? Simple Term Filtering and Weighting for Location-Based Bug Report Assignment Recommendation**  
    Shokripour, Ramin and Anvik, John and Kasirun, Zarinah M and Zamani, Sima. *2013 10th working conference on mining software repositories*. [[Paper](https://d1wqtxts1xzle7.cloudfront.net/72977192/msr2013-libre.pdf?1634525411=&response-content-disposition=inline%3B+filename%3DWhy_so_complicated_Simple_term_filtering.pdf&Expires=1762012992&Signature=P-QxIvM5H2sA00SBgwcErzsw95tnLOP0wcu3oBNTJjFUgpsKPvLB6iX4B7fTNDMPDetDDc480bPK02iHpjx1TuQRWhLNeWAM~Ok8olt2EGJhAXIj4pxnaLBuelQrubn7JimSLyUtK3c16ruEKK77AitheQ-AUTPrIaPn2ceSr21Y5oO0UmQlEFsxiAttNuhe0KfjSKVbI84pglEB5PuiZQe8oDX8IrOjC3dLRae~YYusFXSAI75J46WXhCa7VoBUlWD3LFV5UgL-~vrywZdHVFprvlQAxW8sY92d-61YJxXEO3V2b5ZiXVTb1lYg9FzkOjsUpl9EmxLwrfHz2jjjcw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
 
-2. **User Reviews Matter! Tracking Crowdsourced Reviews to Support Evolution of Successful Apps**  
-   Palomba, Fabio and Linares-V{\'a}squez, Mario and Bavota, Gabriele and Oliveto, Rocco and Di Penta, Massimiliano and Poshyvanyk, Denys and De Lucia, Andrea. *2015 IEEE international conference on software maintenance and evolution*. [[Paper](https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/39UBZ_INST/storage/alma/EA/E4/37/7F/72/CF/BC/22/3A/A6/92/07/53/31/D0/DB/Pal-Lin-Bav-Oli-DiP-Pos-DeL_UserReviewsMatter.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251101T150515Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20251101%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=7b249aa3466f34bf8473383d628f76a183f68683224242edd94d4c0abafcba3c)]
+2. **User reviews matter! tracking crowdsourced reviews to support evolution of successful apps**
+   Palomba, Fabio and Linares-Vásquez, Mario and Bavota, Gabriele and Oliveto, Rocco and Di Penta, Massimiliano and Poshyvanyk, Denys and De Lucia, Andrea. *2015 IEEE international conference on software maintenance and evolution (ICSME)*. [[Paper](https://doi.org/10.1109/ICSM.2015.7332475)]
 
 3. **Online App Review Analysis for Identifying Emerging Issues**  
    Gao, Cuiyun and Zeng, Jichuan and Lyu, Michael R and King, Irwin. *Proceedings of the 40th international conference on software engineering*. [[Paper](https://cuiyungao.github.io/publications/cygao_icse2018.pdf)]
