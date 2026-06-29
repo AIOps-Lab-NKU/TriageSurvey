@@ -283,7 +283,7 @@ Triage encompasses a sequence of analytical activities aimed at efficiently mana
 4. **Automatically matching bug reports with related app reviews**  
    Haering, Marlo and Stanik, Christoph and Maalej, Walid. *2021 IEEE/ACM 43rd international conference on software engineering (ICSE)*. [[Paper](https://doi.org/10.1109/ICSE43902.2021.00092)]
 
-##### Knowledge augmented reasoning
+##### Knowledge Augmented Reasoning
 1. **Knowledge guided hierarchical multi-label classification over ticket data**  
    Zeng, Chunqiu and Zhou, Wubai and Li, Tao and Shwartz, Larisa and Grabarnik, Genady Ya. *IEEE Transactions on Network and Service Management*. [[Paper](https://doi.org/10.1109/TNSM.2017.2668363)]
 2. **Faultprofit: Hierarchical fault profiling of incident tickets in large-scale cloud systems**  
@@ -376,20 +376,6 @@ https://doi.org/10.1145/3639477.3639754)]
    Wang, Rongcun and Ji, Xingyu and Tian, Yuan and Xu, Senlei and Sun, Xiaobing and Jiang, Shujuan. *Empirical Software Engineering*. [[Paper](https://link.springer.com/article/10.1007/s10664-025-10634-0)]   
 
 
-
-
-10. **An Ensemble Method for Bug Triaging using Large Language Models**  
-   Kumar Dipongkor, Atish. *Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings*. [[Paper](https://dl.acm.org/doi/abs/10.1145/3639478.3641228)]
-
-12. **Automated Bug Assignment: Ensemble-based Machine Learning in Large Scale Industrial Contexts**  
-   Jonsson, Leif and Borg, Markus and Broman, David and Sandahl, Kristian and Eldh, Sigrid and Runeson, Per. *Empirical Software Engineering*. [[Paper](https://lucris.lub.lu.se/ws/portalfiles/portal/1859620/7865979.pdf)]
-
-13. **Improving Bug Triaging with High Confidence Predictions at Ericsson**  
-   Sarkar, Aindrila and Rigby, Peter C and Bartalos, Bela. *2019 IEEE International Conference on Software Maintenance and Evolution*. [[Paper](https://users.encs.concordia.ca/~pcr/paper/Sarkar2019ICSME.pdf)]
-
-
-
-
 #### Information Retrieval
 
 1. **Fuzzy Set and Cache-Based Approach for Bug Triaging**  
@@ -440,19 +426,22 @@ Mario Linares-Vásquez, Kamal Hossen, Hoang Dang, Huzefa Kagdi, Malcom Gethers, 
 7. **Enhancing Developer Recommendation with Supplementary Information via Mining Historical Commits**  
    Sun, Xiaobing and Yang, Hui and Xia, Xin and Li, Bin. *Journal of Systems and Software*. [[Paper](https://xin-xia.github.io/publication/jss17.pdf)] 
 
-8. **A Spatial-Temporal Graph Neural Network Framework for Automated Software Bug Triaging**  
+8. **KSAP: An approach to bug report assignment using KNN search and heterogeneous proximity**  
+   Zhang, Wen and Wang, Song and Wang, Qing. *Information and software technology*. [[Paper](https://doi.org/10.1016/j.infsof.2015.10.004)]
+
+9. **A Spatial-Temporal Graph Neural Network Framework for Automated Software Bug Triaging**  
    Wu, Hongrun and Ma, Yutao and Xiang, Zhenglong and Yang, Chen and He, Keqing. *Knowledge-Based Systems*. [[Paper](https://arxiv.org/pdf/2101.11846)]
 
-9. **Graph Collaborative Filtering-Based Bug Triaging**  
+10. **Graph Collaborative Filtering-Based Bug Triaging**  
    Dai, Jie and Li, Qingshan and Xue, Hui and Luo, Zhao and Wang, Yinglin and Zhan, Siyuan. *Journal of Systems and Software*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0164121223000626)]  
 
-10. **PCG: A Joint Framework of Graph Collaborative Filtering For bug Triaging**  
+11. **PCG: A Joint Framework of Graph Collaborative Filtering For bug Triaging**  
    Dai, Jie and Li, Qingshan and Xie, Shenglong and Li, Daizhen and Chu, Hua. *Journal of Software: Evolution and Process*. [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2673)]
 
-11. **Neighborhood Contrastive Learning-based Graph Neural Network for Bug Triaging**  
+12. **Neighborhood Contrastive Learning-based Graph Neural Network for Bug Triaging**  
    Dong, Haozhen and Ren, Hongmin and Shi, Jialiang and Xie, Yichen and Hu, Xudong. *Science of Computer Programming*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0167642324000169?ssrnid=4565134&dgcid=SSRN_redirect_SD)]
 
-12. **Improving Bug Triage with The Bug Personalized Tossing Relationship**  
+13. **Improving Bug Triage with The Bug Personalized Tossing Relationship**  
    Wei, Wei and Li, Haojie and Ren, Xinshuang and Jiang, Feng and Yu, Xu and Gao, Xingyu and Du, Junwei. *Information and Software Technology*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950584924002477)]
 
 #### Optimization / Decision-Making
